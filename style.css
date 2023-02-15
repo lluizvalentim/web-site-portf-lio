@@ -308,8 +308,8 @@ a {
     }
 
     #showcase-container h2 {
-        font-size: 1.2rem;
-        margin-left: 50px;
+        font-size: 1.0rem;
+        margin-left: 20px;
         margin-top: 5px;
         text-align: center;
         margin-left: 150px;
@@ -319,7 +319,7 @@ a {
         margin-top: 40px;
         margin-left: 125px;
         padding: 0px;
-        font-size: 30px;
+        font-size: 20px;
         transition: all 0.3s;
         color: #0bd4d4;
         text-align: center;
